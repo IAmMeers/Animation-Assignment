@@ -26,7 +26,7 @@ class MasterChief {
         
 
         this.x = 300;
-        this.y = 500;
+        this.y = 250;
         this.walkingSpeed = 0.07;
 
         this.bodyAnimations = [];
